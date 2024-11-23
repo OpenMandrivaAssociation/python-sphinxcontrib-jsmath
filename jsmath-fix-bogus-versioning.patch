@@ -1,0 +1,11 @@
+diff -up python-sphinxcontrib-jsmath-1.0.1/setup.cfg.omv~ python-sphinxcontrib-jsmath-1.0.1/setup.cfg
+--- python-sphinxcontrib-jsmath-1.0.1/setup.cfg.omv~	2024-11-23 17:09:07.245596277 +0100
++++ python-sphinxcontrib-jsmath-1.0.1/setup.cfg	2024-11-23 17:09:09.905617493 +0100
+@@ -1,7 +1,3 @@
+-[egg_info]
+-tag_build = .dev
+-tag_date = true
+-
+ [aliases]
+ release = egg_info -Db ''
+ 
